@@ -48,6 +48,8 @@
 {"lat":50.93128205172489,"lon":6.9410487944432395,"date":"2020-02-26T17:49:28.373Z","status":"server: success!","timestamp":1582739368493,"_id":"m1NzB62GRo2GaxO1"},
 {"lat":50.931273683856936,"lon":6.941047923866971,"date":"2020-02-26T17:49:29.496Z","status":"server: success!","timestamp":1582739369631,"_id":"nqLFlCGIdGshqDsC"},
 {"lat":50.931273683856936,"lon":6.941047923866971,"date":"2020-02-26T17:49:30.328Z","status":"server: success!","timestamp":1582739370426,"_id":"q1swzDSP6GdnshaO"},
-  {"lat":41.5048388,"lon":-81.6053714,"date":"2020-02-26T19:44:30.004Z","status":"server: success!","timestamp":1582746383940,"_id":"n2nLyQJosGTdouYF"}
+  {"lat":41.5048388,"lon":-81.6053714,"date":"2020-02-26T19:44:30.004Z","status":"server: success!","timestamp":1582746383940,"_id":"n2nLyQJosGTdouYF"},
+    {"lat":47.6645429,"lon":9.1747622,"date":"2020-02-26T23:39:59.661Z","status":"server: success!","timestamp":1582760399131,"_id":"KZnFf3WeuAlg2scd"}
+{"lat":47.6645429,"lon":9.1747622,"date":"2020-02-26T23:40:01.667Z","status":"server: success!","timestamp":1582760401083,"_id":"Fq72C1EVbkOO3FCW"}
 ]
 }
