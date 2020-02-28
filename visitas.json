@@ -438,6 +438,10 @@
 			"status": "server: success!",
 			"timestamp": 1582916205664,
 			"_id": "VckJdwqBCD9whZto"
-		}
+		},
+		   
+{"lat":-23.5483623,"lon":-46.6430291,"date":"2020-02-28T19:46:44.525Z","status":"server: success!","timestamp":1582919206562,"_id":"WtfSwzwr0Jdov2C7"},
+{"lat":-5.8725181,"lon":-35.1809203,"date":"2020-02-28T18:33:07.090Z","status":"server: success!","timestamp":1582914788292,"_id":"pn6YDimGut4ok2kv"},
+{"lat":-5.8694233,"lon":-35.182013,"date":"2020-02-28T18:35:12.242Z","status":"server: success!","timestamp":1582914912934,"_id":"vjHDMloaVd7ALRsq"}
 	]
 }
