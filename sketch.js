@@ -46,7 +46,7 @@ function setup() {
     var radius = e.accuracy;
 
     L.marker(e.latlng).addTo(map)
-      .bindPopup("Você!").openPopup();
+      .bindPopup("ESTOU AQUI!").openPopup();
 
     L.circle(e.latlng, radius).addTo(map);
   }
